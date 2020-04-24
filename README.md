@@ -1,6 +1,6 @@
 # WebScraping
-Aim of this project was to create a database of Indian movie celebrities with their images and personality traits.
-I used https://astrolinked.com/ to get personality trait. This website has data about many celebrities including film starts, political leaders, cricketers etc. 
+1) Aim of this project was to create a database of Indian movie celebrities with their images and personality traits.
+2) Use https://astrolinked.com/ to get personality trait. This website has data about many celebrities including film starts, political leaders, cricketers etc. 
 ## system requirements
 1) selenium
 2) webdriver
