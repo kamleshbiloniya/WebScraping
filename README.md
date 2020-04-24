@@ -7,7 +7,7 @@
 3) webdriver (https://yizeng.me/2014/04/20/install-chromedriver-and-phantomjs-on-linux-mint/)
 ## personality traits extraction
 1) First, extracte valied urls using fetchurl.py files( it contain all type of celebrities)
-2) Extract personality traits of all celebrities (saved in data.csv)
+2) Extract personality traits of all celebrities using main.py (saved in data.csv)
 3) bollywood_actress_and_actors.txt file contain name of all bollywood actresses and actors (got from wiki). 
 4) Using above file seperate bollywood celebrities from all celebrities (save in celebs_traits.csv)
 
